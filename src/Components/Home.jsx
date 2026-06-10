@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 export default function ColorBox() {
   // 1. RGB 색상을 저장할 state 생성

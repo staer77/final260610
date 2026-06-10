@@ -1,9 +1,9 @@
-import Home from "./Components/Home";
+import Desc from "./Components/Home";
 
 export default function App() {
   return (
     <>
-      <Home />
+      <Desc />
     </>
   )
 }
